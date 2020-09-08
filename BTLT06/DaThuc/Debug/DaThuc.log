@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\bt\visual\btlt06\dathuc\dathuc.h(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\bt\visual\btlt06\dathuc\dathuc.h(43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DaThuc.vcxproj -> E:\BT\Visual\BTLT06\Debug\DaThuc.exe

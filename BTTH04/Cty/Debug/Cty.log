@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\asus\source\repos\thuvien\cty\main.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\asus\source\repos\thuvien\cty\main.cpp(101): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Cty.vcxproj -> C:\Users\ASUS\source\repos\ThuVien\Debug\Cty.exe

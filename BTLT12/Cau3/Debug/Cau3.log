@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\bt\visual\btlt12\cau3\character.h(50): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\bt\visual\btlt12\cau3\main.cpp(49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\bt\visual\btlt12\cau3\main.cpp(50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Cau3.vcxproj -> E:\BT\Visual\BTLT12\Debug\Cau3.exe

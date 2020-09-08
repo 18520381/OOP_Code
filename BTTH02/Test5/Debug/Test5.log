@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\bt\visual\btth2\test5\main.cpp(12): warning C4305: '=': truncation from 'double' to 'float'
+  Test5.vcxproj -> E:\BT\Visual\BTTH2\Debug\Test5.exe

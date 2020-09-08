@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\bt\visual\phone\bottle\source.cpp(33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\bt\visual\phone\bottle\source.cpp(37): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\bt\visual\phone\bottle\source.cpp(57): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\bt\visual\phone\bottle\source.cpp(61): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\bt\visual\phone\bottle\source.cpp(77): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\bt\visual\phone\bottle\source.cpp(81): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Bottle.vcxproj -> E:\BT\Visual\Phone\Debug\Bottle.exe

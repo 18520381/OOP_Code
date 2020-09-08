@@ -1,0 +1,3 @@
+﻿  Source.cpp
+e:\bt\visual\hdh006\fifo\source.cpp(36): warning C4018: '<=': signed/unsigned mismatch
+  FIFO.vcxproj -> E:\BT\Visual\HDH006\Debug\FIFO.exe

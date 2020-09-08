@@ -1,0 +1,8 @@
+﻿  Source.cpp
+e:\bt\visual\phone\btth05\source.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+e:\bt\visual\phone\btth05\source.cpp(34): warning C4305: '=': truncation from 'double' to 'float'
+e:\bt\visual\phone\btth05\source.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+e:\bt\visual\phone\btth05\source.cpp(138): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+e:\bt\visual\phone\btth05\source.cpp(143): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+e:\bt\visual\phone\btth05\source.cpp(148): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  BTTH05.vcxproj -> E:\BT\Visual\Phone\Debug\Phone.exe
